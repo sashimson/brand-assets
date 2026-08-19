@@ -14,7 +14,7 @@
 ### Farben
 
 | Name | HEX-Code |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **Bone Light** | `#fcfcfc` | 
 | **Bone Dark** | `#f0f0f0` | 
 | **Shore Light** | `#0c4854` | 
