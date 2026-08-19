@@ -32,10 +32,10 @@
 
 ### Primäre Schriftart: Def Sans
 
-* **Black** (Font-Weight: 900) – *Für plakative Headlines*
-* **Bold** (Font-Weight: 700) – *Für Hervorhebungen und Buttons*
-* **Medium** (Font-Weight: 500) – *Für Sublines und UI-Elemente*
-* **Light** (Font-Weight: 300) – *Für große, elegante Fließtexte*
+* **Black** (Font-Weight: 900)
+* **Bold** (Font-Weight: 700)
+* **Medium** (Font-Weight: 500)
+* **Light** (Font-Weight: 300)
 
 ### Fallback & Web-Alternative: Open Sans
 
