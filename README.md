@@ -1,3 +1,7 @@
+# Sashimson
+
+[**Sashimson**](https://www.sashimson.com/) ist eine Webdesign- und Werbeagentur aus Salzburg für Manufakturen und Familienunternehmen aus Österreich und Deutschland.
+
 # Offizielle Brand-Assets von Sashimson
 
 ## Logos
